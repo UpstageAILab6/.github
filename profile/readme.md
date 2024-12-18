@@ -12,24 +12,16 @@
 - 2024.11.14 ~ 2025.06.18
 
 #### Done
-- 
-
-#### In Progress
 - **[FastCampus]** Python
-  
-#### Upcoming
 - **[FastCampus]** Statistic
 - **[FastCampus]** Git
-- **[FastCampus]** LangChain Project
-- **[FastCampus]** Machine Learning
-- **[FastCampus]** Machine Learning Project
-- **[Upstage]** Machine Learning Regression Competition
-- **[Upstage]** ML & MLOps
-- **[Upstage]** Machine Learning Project
-- **[Upstage]** Deep Learning
-- **[Upstage]** Pytorch
+
+#### Upcoming
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
+- **[Upstage]** ML & MLOps
+- **[Upstage]** Deep Learning
+- **[Upstage]** Pytorch
 - **[Upstage]** Computer Vision Basic
 - **[Upstage]** Computer Vision Generation
 - **[Upstage]** Computer Vision Advanced
@@ -38,9 +30,10 @@
 - **[Upstage]** Natural Language Processing Advanced
 - **[Upstage]** NLP Dialogue Summarization Competition
 - **[Upstage]** Natural Language Processing LM TO LLM
+- **[FastCampus]** LangChain Project
 - **[Upstage]** AI Advanced : Data Centric AI
+- - **[Upstage]** Information Retrieval Competition
 - **[Upstage]** OCR Detector Competition
-- **[Upstage]** Information Retrieval Competition
 - **[Upstage]** Recommender System Competition
 - **[Upstage]** Anomaly Detection Competition
 - **[FastCampus]** 1 on 1 Career Service
