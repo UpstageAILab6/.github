@@ -32,7 +32,7 @@
 - **[Upstage]** Natural Language Processing LM TO LLM
 - **[FastCampus]** LangChain Project
 - **[Upstage]** AI Advanced : Data Centric AI
-- - **[Upstage]** Information Retrieval Competition
+- **[Upstage]** Information Retrieval Competition
 - **[Upstage]** OCR Detector Competition
 - **[Upstage]** Recommender System Competition
 - **[Upstage]** Anomaly Detection Competition
