@@ -15,10 +15,10 @@
 - **[FastCampus]** Python
 - **[FastCampus]** Statistic
 - **[FastCampus]** Git
-
-#### Upcoming
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
+
+#### Upcoming
 - **[Upstage]** ML & MLOps
 - **[Upstage]** Deep Learning
 - **[Upstage]** Pytorch
