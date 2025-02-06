@@ -17,9 +17,9 @@
 - **[FastCampus]** Git
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
+- **[Upstage]** ML & MLOps
 
 #### Upcoming
-- **[Upstage]** ML & MLOps
 - **[Upstage]** Deep Learning
 - **[Upstage]** Pytorch
 - **[Upstage]** Computer Vision Basic
