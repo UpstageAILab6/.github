@@ -18,13 +18,13 @@
 - **[Upstage]** Machine Learning Basic/Advanced
 - **[Upstage]** Machine Learning Regression Competition
 - **[Upstage]** ML & MLOps
-
-#### Upcoming
 - **[Upstage]** Deep Learning
 - **[Upstage]** Pytorch
 - **[Upstage]** Computer Vision Basic
-- **[Upstage]** Computer Vision Generation
+
+#### Upcoming
 - **[Upstage]** Computer Vision Advanced
+- **[Upstage]** Computer Vision Generation
 - **[Upstage]** CV Image Classification Competiton
 - **[Upstage]** Natural Language Processing Basic
 - **[Upstage]** Natural Language Processing Advanced
