@@ -21,9 +21,9 @@
 - **[Upstage]** Deep Learning
 - **[Upstage]** Pytorch
 - **[Upstage]** Computer Vision Basic
+- **[Upstage]** Computer Vision Advanced
 
 #### Upcoming
-- **[Upstage]** Computer Vision Advanced
 - **[Upstage]** Computer Vision Generation
 - **[Upstage]** CV Image Classification Competiton
 - **[Upstage]** Natural Language Processing Basic
